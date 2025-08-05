@@ -1,0 +1,18 @@
+{
+  "name": "selenium-automation-testing",
+  "version": "1.0.0",
+  "description": "selenium automation basics",
+  "main": "index.js",
+  "scripts": {
+    "New1": "node New1.js",
+    "New2": "node New2.js"
+  },
+  "author": "Ayesha Siddika Mou",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.32.0"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0"
+  }
+}
